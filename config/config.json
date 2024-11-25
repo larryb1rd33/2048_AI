@@ -1,5 +1,6 @@
 {
   "webdriver_path": "../drivers/msedgedriver",
   "browser": "edge",
-  "game_url": "https://2048game.com/"
+  "game_url": "https://2048game.com/",
+  "move_delay": 0.1
 }
