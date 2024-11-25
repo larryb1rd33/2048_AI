@@ -14,4 +14,4 @@ An AI project to automate and play the 2048 game using browser automation and AI
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/2048-AI-Agent.git
+   https://github.com/larryb1rd33/2048_AI.git
