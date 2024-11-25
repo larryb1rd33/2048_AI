@@ -1,0 +1,4 @@
+# Python-specific files
+__pycache__/          # Compiled bytecode files
+*.py[cod]             # Compiled Python files
+*.pyo                 # Optimized Python files

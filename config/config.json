@@ -1,0 +1,5 @@
+{
+  "webdriver_path": "../drivers/msedgedriver",
+  "browser": "edge",
+  "game_url": "https://2048game.com/"
+}
