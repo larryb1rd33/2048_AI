@@ -2,3 +2,41 @@
 __pycache__/          # Compiled bytecode files
 *.py[cod]             # Compiled Python files
 *.pyo                 # Optimized Python files
+
+# Virtual environment
+venv/                 # Virtual environment folder, if you create one
+.env                  # Environment variable files (if you use dotenv)
+
+# IDE and editor files
+.vscode/              # VSCode settings
+.idea/                # PyCharm settings
+*.swp                 # Swap files for vim
+*.sublime-workspace   # Sublime project files
+*.sublime-project     # Sublime project settings
+
+# Logs and debug files
+*.log                 # Log files
+debug.log             # Debug-specific logs
+
+# Dependency files
+*.egg-info/           # Distribution metadata
+build/                # Build artifacts
+dist/                 # Distribution folders
+
+# Temporary files
+*.tmp                 # Temporary files
+*.bak                 # Backup files
+.DS_Store             # macOS directory settings
+Thumbs.db             # Windows directory settings
+
+# Selenium-specific
+chromedriver          # Local ChromeDriver binary
+geckodriver           # Firefox WebDriver binary
+
+# Test coverage
+htmlcov/              # Coverage reports
+.coverage             # Coverage data
+
+# Git-specific
+*.lock                # Lock files (pip, npm, etc.)
+*.orig                # Merge conflict resolution files
